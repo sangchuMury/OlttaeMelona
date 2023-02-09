@@ -1,4 +1,4 @@
-👋 Hi there! I'm a junior web developer using JAVA and Spring.
+👋 Hi there! I'm a junior web developer using JAVA and Spring.  
 Let's have fun developing🚀
 
 
