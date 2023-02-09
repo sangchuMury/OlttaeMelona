@@ -4,7 +4,7 @@
 <br>
 <br>
 📬Mail : <a href="mailto:﻿gag7ga@gmail.com?subject=안녕하세요. GitHub에서 보내는 메일입니다." target="_blank">
-<img src="https://img.shields.io/badge/gag7ga@gmail.com-#EA4335?style=flat-square&logo=Gmail&logoColor=white&link=gag7ga@gmail.com"/></a>
+<img src="https://img.shields.io/badge/gmail-#EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <br>
 🌟Notion : https://fixed-sprout-a1e.notion.site/EunYoung-Ryu-Frofile-c8f040dc00814146adc8a0e578f4b618
 <br>
