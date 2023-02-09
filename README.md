@@ -1,7 +1,12 @@
 ### 👋 Hi there! I'm a junior web developer using JAVA and Spring.  
 ### 🚀 Let's have fun developing  
-  
-<a href="mailto:﻿gag7ga@gmail.com?subject=안녕하세요." target="_blank"><img src="https://img.shields.io/badge/Gmail-#F9F54B?style=plastic&logo=Gmail&logoColor=#EA4335"/></a>
+ 
+ 
+<a href="mailto:﻿gag7ga@gmail.com?subject=안녕하세요. GitHub에서 보내는 메일입니다." target="_blank"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=plastic&logo=Gmail&logoColor=#F9F54B5"/></a>
+
+
+
+
 
 
 <!--
