@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=F9F54B&text=Welcome%20to%20my%20universe!&height=150&fontSize=50&desc=Enjoy%20Development&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=F9F54B&text=Welcome%20to%20my%20universe🌈✨&height=150&fontSize=50&desc=&descAlignY=75&descAlign=60)
 <br>
 <br>
 
@@ -7,7 +7,6 @@
 <div align="center">
   
 ### ✨Follow Me✨
-<br>
 <!-- gmail -->
 <a href="mailto:﻿gag7ga@gmail.com?subject=안녕하세요. GitHub에서 보내는 메일입니다." target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -21,7 +20,6 @@
 
 
 ### 🚀Tech Stack🚀
-<br>
 <!-- java -->
 <img src="https://img.shields.io/badge/JAVA-5A45FF?style=flat-square&logo=Java&logoColor=white"/>
 <!-- javaScipt -->
