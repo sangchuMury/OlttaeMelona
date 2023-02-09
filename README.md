@@ -1,7 +1,5 @@
 <!-- 헤더 -->
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=F9F54B&text=Welcome%20to%20my%20universe🌈✨&height=150&fontSize=50&desc=&descAlignY=75&descAlign=60)
-<br>
-<br>
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=A66CFF&text=🌈Welcome%20to%20my%20universe✨&height=150&fontSize=50&desc=&descAlignY=75&descAlign=60)
 
 
 <div align="center">
