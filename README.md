@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![wave](https://capsule-render.vercel.app/api?type=wave&color=363062&height=200&text=👋Hi%20There!&fontColor=EEEEEE&fontSize=80)
+![wave](https://capsule-render.vercel.app/api?type=wave&color=363062&height=200&text=Hi%20There👋&fontColor=EEEEEE&fontSize=85)
 
 <!-- ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=B4B0E3&text=🌈Junior%20Web%20Developer✨&height=150&fontSize=53&desc=&descAlignY=75&descAlign=60) -->
 
