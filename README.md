@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![wave](https://capsule-render.vercel.app/api?type=wave&color=363062&height=200&text=Junior%20Web%20Developer&fontColor=EEEEEE)
+![wave](https://capsule-render.vercel.app/api?type=wave&color=363062&height=200&text=Junior%20Web%20Developer&fontColor=EEEEEE&fontSize=63)
 
 <!-- ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=B4B0E3&text=🌈Junior%20Web%20Developer✨&height=150&fontSize=53&desc=&descAlignY=75&descAlign=60) -->
 
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <!-- notion -->
 <a href="https://fixed-sprout-a1e.notion.site/EunYoung-Ryu-Frofile-c8f040dc00814146adc8a0e578f4b618" target="_blank">
-<img src="https://img.shields.io/badge/Notion-ED2761?style=flat-square&logo=Notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-202040?style=flat-square&logo=Notion&logoColor=white"/></a>
 <!-- blog -->
 <a href="https://lonalog.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Blog-41454A?style=flat-square&logo=Tistory&logoColor=white"/></a>
