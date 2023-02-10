@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=Junior%20Web%20Developer)
+![wave](https://capsule-render.vercel.app/api?type=wave&color=301B3F&height=200&text=Junior%20Web%20Developer)
 
 <!-- ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=B4B0E3&text=🌈Junior%20Web%20Developer✨&height=150&fontSize=53&desc=&descAlignY=75&descAlign=60) -->
 
