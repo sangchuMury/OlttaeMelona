@@ -16,9 +16,11 @@
 <a href="https://fixed-sprout-a1e.notion.site/EunYoung-Ryu-Frofile-c8f040dc00814146adc8a0e578f4b618" target="_blank">
 <img src="https://img.shields.io/badge/Notion-202040?style=flat-square&logo=Notion&logoColor=white"/></a>
 <!-- blog -->
-<a href="https://lonalog.tistory.com/" target="_blank">
+<a href="https://velog.io/@olttaemelona" target="_blank">
+<img src="https://img.shields.io/badge/velog-41454A?style=flat-square&logo=velog&logoColor=white"/></a>
+<!--<a href="https://lonalog.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Blog-41454A?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<br>
+<br>-->
 
 
 ### 🚀Tech Stack🚀
