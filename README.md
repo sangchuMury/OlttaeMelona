@@ -1,5 +1,6 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=C1AEFC&height=300&section=header&text=👋Hi%20There!&fontSize=90&animation=fadeIn&fontAlignY=42&fontColor=EEEEEE)
+![shark](https://capsule-render.vercel.app/api?type=shark&color=C1AEFC&height=35)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=C1AEFC&height=300&section=header&text=👋Hi%20There!&fontSize=90&animation=fadeIn&fontAlignY=42&fontColor=EEEEEE) -->
 
 <!--![wave](https://capsule-render.vercel.app/api?type=wave&color=363062&height=200&text=Hi%20There👋&fontColor=EEEEEE&fontSize=85)-->
 
