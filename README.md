@@ -1,10 +1,15 @@
-<!-- 헤더 -->
+<!-- header -->
 ![shark](https://capsule-render.vercel.app/api?type=shark&color=C1AEFC&height=35)
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=C1AEFC&height=300&section=header&text=👋Hi%20There!&fontSize=90&animation=fadeIn&fontAlignY=42&fontColor=EEEEEE) -->
 
 <!--![wave](https://capsule-render.vercel.app/api?type=wave&color=363062&height=200&text=Hi%20There👋&fontColor=EEEEEE&fontSize=85)-->
 
 <!-- ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=B4B0E3&text=🌈Junior%20Web%20Developer✨&height=150&fontSize=53&desc=&descAlignY=75&descAlign=60) -->
+
+
+<!-- body -->
+
+<br>
 
 
 <div align="center">
@@ -40,8 +45,16 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 
 </div>
+
+
+<br>
+<br>
+<br>
 <br>
 
+
+<!--footer-->
+![shark](https://capsule-render.vercel.app/api?type=shark&color=C1AEFC&height=35&section=footer)
 
 <!--
 **OlttaeMelona/OlttaeMelona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
