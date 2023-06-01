@@ -1,5 +1,7 @@
 <!-- header -->
-![shark](https://capsule-render.vercel.app/api?type=shark&color=C1AEFC&height=35)
+
+![egg](https://capsule-render.vercel.app/api?type=egg&color=C1AEFC&height=150)
+<!--![shark](https://capsule-render.vercel.app/api?type=shark&color=C1AEFC&height=35)-->
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=C1AEFC&height=300&section=header&text=👋Hi%20There!&fontSize=90&animation=fadeIn&fontAlignY=42&fontColor=EEEEEE) -->
 
 <!--![wave](https://capsule-render.vercel.app/api?type=wave&color=363062&height=200&text=Hi%20There👋&fontColor=EEEEEE&fontSize=85)-->
@@ -50,12 +52,11 @@
 <br>
 <br>
 <br>
-<br>
 
 
 <!--footer-->
-![shark](https://capsule-render.vercel.app/api?type=shark&color=C1AEFC&height=35&section=footer)
-
+<!--![shark](https://capsule-render.vercel.app/api?type=shark&color=C1AEFC&height=35&section=footer)-->
+![egg](https://capsule-render.vercel.app/api?type=egg&color=C1AEFC&height=150&section=footer)
 <!--
 **OlttaeMelona/OlttaeMelona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
