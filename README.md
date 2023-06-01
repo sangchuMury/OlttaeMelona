@@ -1,13 +1,7 @@
 <!-- header -->
-![waving](https://capsule-render.vercel.app/api?type=waving&height=100&color=C1AEFC)
+
   
-<!--![shark](https://capsule-render.vercel.app/api?type=shark&color=C1AEFC&height=35)-->
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=C1AEFC&height=300&section=header&text=👋Hi%20There!&fontSize=90&animation=fadeIn&fontAlignY=42&fontColor=EEEEEE) -->
-
-<!--![wave](https://capsule-render.vercel.app/api?type=wave&color=363062&height=200&text=Hi%20There👋&fontColor=EEEEEE&fontSize=85)-->
-
-<!-- ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=B4B0E3&text=🌈Junior%20Web%20Developer✨&height=150&fontSize=53&desc=&descAlignY=75&descAlign=60) -->
-
+![shark](https://capsule-render.vercel.app/api?type=shark&color=C1AEFC&height=35)
 
 <!-- body -->
 
@@ -50,11 +44,11 @@
 
 
 <br>
-
+<br>
+<br>
 
 <!--footer-->
-<!--![shark](https://capsule-render.vercel.app/api?type=shark&color=C1AEFC&height=35&section=footer)-->
-![waving](https://capsule-render.vercel.app/api?type=waving&height=100&color=C1AEFC&section=footer)
+![shark](https://capsule-render.vercel.app/api?type=shark&color=C1AEFC&height=35&section=footer)
 
 <!--
 **OlttaeMelona/OlttaeMelona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
